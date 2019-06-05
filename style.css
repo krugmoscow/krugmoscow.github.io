@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  color: #ff0000;
+}
+
+.main__title {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 64px;
+}
